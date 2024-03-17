@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Harry Potter",
+        "genre": "fiction",
+        "price":15.0,
+        "book_id": "e1b7e31"
+    },
+    {
+        "name": "The Great Gatsby",
+        "genre": "fiction",
+        "price":16.0,
+        "book_id": "f37e31"
+    },
+    {
+        "name": "Potter",
+        "genre": "fiction",
+        "price":5.0,
+        "book_id": "klj67e31"
+    },
+    {
+        "name": "Harry Potter",
+        "genre": "fiction",
+        "price":15.0,
+        "book_id": "e1b7e31"
+    },
+    {
+        "name": "Harry Potter",
+        "genre": "fiction",
+        "price":15.0,
+        "book_id": "e1b7e31"
+    },
+    {
+        "name": "Harry Potter",
+        "genre": "fiction",
+        "price":15.0,
+        "book_id": "e1b7e31"
+    },
+    {
+        "name": "Harry Potter",
+        "genre": "fiction",
+        "price":15.0,
+        "book_id": "e1b7e31"
+    },
+    {
+        "name": "Harry Potter",
+        "genre": "fiction",
+        "price":15.0,
+        "book_id": "e1b7e31"
+    },
+    {
+        "name": "Harry Potter",
+        "genre": "fiction",
+        "price":15.0,
+        "book_id": "e1b7e31"
+    },
+    {
+        "name": "Harry Potter",
+        "genre": "fiction",
+        "price":15.0,
+        "book_id": "e1b7e31"
+    },
+    {
+        "name": "R Potter",
+        "genre": "fiction",
+        "price":20.0,
+        "book_id": "e1b7e31"
+    }
+]
